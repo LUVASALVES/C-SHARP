@@ -1,0 +1,7 @@
+C:\Users\lucar\OneDrive\Área de Trabalho\GIT\C#\EX - 3 FOR-WHILE-DO\EX - 3 FOR-WHILE-DO\bin\Debug\EX - 3 FOR-WHILE-DO.exe.config
+C:\Users\lucar\OneDrive\Área de Trabalho\GIT\C#\EX - 3 FOR-WHILE-DO\EX - 3 FOR-WHILE-DO\bin\Debug\EX - 3 FOR-WHILE-DO.exe
+C:\Users\lucar\OneDrive\Área de Trabalho\GIT\C#\EX - 3 FOR-WHILE-DO\EX - 3 FOR-WHILE-DO\bin\Debug\EX - 3 FOR-WHILE-DO.pdb
+C:\Users\lucar\OneDrive\Área de Trabalho\GIT\C#\EX - 3 FOR-WHILE-DO\EX - 3 FOR-WHILE-DO\obj\Debug\EX - 3 FOR-WHILE-DO.csprojAssemblyReference.cache
+C:\Users\lucar\OneDrive\Área de Trabalho\GIT\C#\EX - 3 FOR-WHILE-DO\EX - 3 FOR-WHILE-DO\obj\Debug\EX - 3 FOR-WHILE-DO.csproj.CoreCompileInputs.cache
+C:\Users\lucar\OneDrive\Área de Trabalho\GIT\C#\EX - 3 FOR-WHILE-DO\EX - 3 FOR-WHILE-DO\obj\Debug\EX - 3 FOR-WHILE-DO.exe
+C:\Users\lucar\OneDrive\Área de Trabalho\GIT\C#\EX - 3 FOR-WHILE-DO\EX - 3 FOR-WHILE-DO\obj\Debug\EX - 3 FOR-WHILE-DO.pdb

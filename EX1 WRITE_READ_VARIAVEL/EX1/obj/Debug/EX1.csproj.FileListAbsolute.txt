@@ -1,0 +1,7 @@
+C:\Users\lucar\OneDrive\Área de Trabalho\GIT\C#\EX1\EX1\bin\Debug\EX1.exe.config
+C:\Users\lucar\OneDrive\Área de Trabalho\GIT\C#\EX1\EX1\bin\Debug\EX1.exe
+C:\Users\lucar\OneDrive\Área de Trabalho\GIT\C#\EX1\EX1\bin\Debug\EX1.pdb
+C:\Users\lucar\OneDrive\Área de Trabalho\GIT\C#\EX1\EX1\obj\Debug\EX1.csprojAssemblyReference.cache
+C:\Users\lucar\OneDrive\Área de Trabalho\GIT\C#\EX1\EX1\obj\Debug\EX1.csproj.CoreCompileInputs.cache
+C:\Users\lucar\OneDrive\Área de Trabalho\GIT\C#\EX1\EX1\obj\Debug\EX1.exe
+C:\Users\lucar\OneDrive\Área de Trabalho\GIT\C#\EX1\EX1\obj\Debug\EX1.pdb

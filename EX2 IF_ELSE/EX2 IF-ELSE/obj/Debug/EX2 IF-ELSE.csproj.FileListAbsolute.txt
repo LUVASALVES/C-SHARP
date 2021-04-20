@@ -1,0 +1,7 @@
+C:\Users\lucar\OneDrive\Área de Trabalho\GIT\C#\EX2 IF-ELSE\EX2 IF-ELSE\obj\Debug\EX2 IF-ELSE.csprojAssemblyReference.cache
+C:\Users\lucar\OneDrive\Área de Trabalho\GIT\C#\EX2 IF-ELSE\EX2 IF-ELSE\obj\Debug\EX2 IF-ELSE.csproj.CoreCompileInputs.cache
+C:\Users\lucar\OneDrive\Área de Trabalho\GIT\C#\EX2 IF-ELSE\EX2 IF-ELSE\bin\Debug\EX2 IF-ELSE.exe.config
+C:\Users\lucar\OneDrive\Área de Trabalho\GIT\C#\EX2 IF-ELSE\EX2 IF-ELSE\bin\Debug\EX2 IF-ELSE.exe
+C:\Users\lucar\OneDrive\Área de Trabalho\GIT\C#\EX2 IF-ELSE\EX2 IF-ELSE\bin\Debug\EX2 IF-ELSE.pdb
+C:\Users\lucar\OneDrive\Área de Trabalho\GIT\C#\EX2 IF-ELSE\EX2 IF-ELSE\obj\Debug\EX2 IF-ELSE.exe
+C:\Users\lucar\OneDrive\Área de Trabalho\GIT\C#\EX2 IF-ELSE\EX2 IF-ELSE\obj\Debug\EX2 IF-ELSE.pdb
